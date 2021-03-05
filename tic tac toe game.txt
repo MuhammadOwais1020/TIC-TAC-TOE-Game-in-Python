@@ -1,1 +1,2 @@
 I will design this game according to AI based technology
+I will design this game using python programming lanuage 
